@@ -1,18 +1,4 @@
 
->转载请标明出处： 
-> http://blog.csdn.net/forezp/article/details/70148833
-> 本文出自[方志朋的博客](http://blog.csdn.net/forezp)
-
-错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
-
-案例全部采用Spring Boot 1.5.x ,Spring Cloud版本为Dalston.RELEASE
-
-我为什么这些文章？一是巩固自己的知识，二是希望有更加开放和与人分享的心态，三是接受各位大神的批评指教，有任何问题可以联系我: miles02@163.com .
-码农下载：[https://git.oschina.net/forezp/SpringCloudLearning](https://git.oschina.net/forezp/SpringCloudLearning)
-github下载：[https://github.com/forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning),记得star哦！
-
-#### CSDN专栏汇总：[史上最简单的 SpringCloud 教程](http://blog.csdn.net/forezp/article/details/70148833)
-
 ### 《史上最简单的 SpringCloud 教程》系列：
 
 * [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）](http://blog.csdn.net/forezp/article/details/69696915)
